@@ -13,4 +13,5 @@
 2. Run the python file
 3. Answer the 2 questions (what is the ip to turn off and on the pump)
 4. Keep the programm running and let it do it's work
-   **Note the programm's questions are in Estonian, so you may want to use a translateor **
+
+**Note the programm's questions are in Estonian, so you may want to use a translateor**
