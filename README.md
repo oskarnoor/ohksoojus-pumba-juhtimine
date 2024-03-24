@@ -8,7 +8,7 @@
 
 
 
-## Kuidas kasutada .exe faili esimest korda **(PALJU LIHTSAM)**
+## Kuidas kasutada .exe faili esimest korda **(EI OLE KATSETANUD)**
 1. Lae alla **KÕIK** failid
 2. Pane "loovtoo.exe" käima
 3. Vasta 2 küsimusele (mis on juhitava asja sisse lülitamis ip address ja välja lülitamis adderess)
@@ -26,7 +26,7 @@
 
 
 
-## How to use .exe version **(ALOT EASIER)** 
+## How to use .exe version **(HAVENT TESTED FULLY)** 
 1. Download **ALL** of the files
 2. Run the "loovtoo.exe" file
 3. Answer 2 simple questions (what is the ip to turn off and on the thing you want to controll)
